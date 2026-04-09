@@ -1,7 +1,7 @@
 ﻿@extends('layouts.app')
 
-@section('title', 'Join Us – WICCI NPWC')
-@section('meta_description', 'Join WICCI NPWC as a member or volunteer and be part of India\\'s mental wellness movement.')
+@section('title', 'Join Us - WICCI NPWC')
+@section('meta_description', 'Join WICCI NPWC as a member or volunteer and be part of India\'s mental wellness movement.')
 
 @section('content')
 <section class="page-header">
